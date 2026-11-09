@@ -46,7 +46,7 @@ product-inventory-api/
 
 ## Installation
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/mastars-z/product-inventory-api.git
 cd product-inventory-api
 npm install
 ```
